@@ -2,7 +2,7 @@
 This is a paper list for neural network compression techniques such as quantization, pruning, and distillation. Most of the papers in the list are about quantization of CNNs. Only official codes are crosslinked.
 
 # Paper List
-
+format: (**[Nickname]**) Paper title, published @, paper link, (official code (if provided))
 
 ## Quantization
 - **[BNN]** Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1, arXiv 2016, [[paper]](https://arxiv.org/abs/1602.02830), [[code(Theano)]](https://github.com/MatthieuCourbariaux/BinaryNet) [[code(Torch-7)]](https://github.com/itayhubara/BinaryNet), [[code(Pytorch)]](https://github.com/itayhubara/BinaryNet.pytorch), [[code(Tensorflow)]](https://github.com/itayhubara/BinaryNet.tf)
