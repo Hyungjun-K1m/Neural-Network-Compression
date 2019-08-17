@@ -14,10 +14,15 @@ This is a paper list for neural network compression techniques such as quantizat
 - Trained Ternary Quantization, ICLR 2017, [[paper]](https://openreview.net/forum?id=S1_pAu9xl&noteId=S1_pAu9xl), [[code(Tensorflow)]](https://github.com/czhu95/ternarynet)
 - How to train a compact binary neural network with high accuracy?, AAAI 2017, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14619)
 - Towards Accurate Binary Convolutional Neural Network, NIPS 2017, [[paper]](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)
+- Weighted-Entropy-Based Quantization for Deep Neural Networks, CVPR 2017, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Park_Weighted-Entropy-Based_Quantization_for_CVPR_2017_paper.html), [[code(caffe)]](https://github.com/EunhyeokPark/script_for_WQ)
 - Network Sketching: Exploiting Binary Structure in Deep CNNs, CVPR 2017, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Guo_Network_Sketching_Exploiting_CVPR_2017_paper.html)
 - WRPN: Wide Reduced-Precision Networks, ICLR 2018, [[paper]](https://openreview.net/forum?id=B1ZvaaeAZ&noteId=B1ZvaaeAZ)
 - PACT: Parameterized Clipping Activation for Quantized Neural Networks, arXiv 2018, [[paper]](https://arxiv.org/abs/1805.06085)
 - Bi-Real Net: Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.html), [[code(caffe)]](https://github.com/liuzechun/Bi-Real-net)
+- SYQ: Learning Symmetric Quantization For Efficient Deep Neural Networks, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Faraone_SYQ_Learning_Symmetric_CVPR_2018_paper.html), [[code(Tensorflow)]](https://github.com/julianfaraone/SYQ)
+- Towards Effective Low-Bitwidth Convolutional Neural Networks, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhuang_Towards_Effective_Low-Bitwidth_CVPR_2018_paper.html), [[code(Pytorch)]](https://github.com/nowgood/QuantizeCNNModel)
+- Two-Step Quantization for Low-bit Neural Networks, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Two-Step_Quantization_for_CVPR_2018_paper.html)
+- LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.html), [[code(Tensorflow)]](https://github.com/microsoft/LQ-Nets)
 - Alternating Multi-bit Quantization for Recurrent Neural Networks, ICLR 2018, [[paper]](https://openreview.net/forum?id=S19dR9x0b)
 - NICE: Noise Injection and Clamping Estimation for Neural Network Quantization, arXiv 2018, [[paper]](https://arxiv.org/abs/1810.00162)
 - True Gradient-Based Training of Deep Binary Activated Neural Networks Via Continuous Binarization, ICASSP 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8461456/)
@@ -35,16 +40,22 @@ This is a paper list for neural network compression techniques such as quantizat
 - Quantization Networks, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Quantization_Networks_CVPR_2019_paper.html)
 - BNN+: Improved Binary Network Training, arXiv 2019, [[paper]](https://arxiv.org/abs/1812.11800)
 - Regularizing Activation Distribution for Training Binarized Deep Networks, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Ding_Regularizing_Activation_Distribution_for_Training_Binarized_Deep_Networks_CVPR_2019_paper.html), [[code(Pytorch)]](https://github.com/ruizhoud/DistributionLoss)
+- A Main/Subsidiary Network Framework for Simplifying Binary Neural Networks, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_A_MainSubsidiary_Network_Framework_for_Simplifying_Binary_Neural_Networks_CVPR_2019_paper.html)
+- Matrix and tensor decompositions for training binary neural networks, arXiv 2019, [[paper]](https://arxiv.org/abs/1904.07852)
 
-## Pruning
 
-## Distillation
-
-## Separable convolution
-
-## Understanding STE
-
-## etc
+## Efficient Model
+- MobileNet v1,v2,v3
+- Xception
+- ShuffleNet v1,v2
+- SqueezeNet
+- SqueezeNext
+- StrassenNets
+- SlimmableNet
+- ChannelNets
+- Shift
+- FE-Net
+- EfficientNet
 
 
 # Copyright 
