@@ -45,17 +45,19 @@ format: (**[Nickname]**) Paper title, published @, paper link, (official code (i
 
 
 ## Efficient Model
-- **[MobileNet v1,v2,v3]**
-- **[Xception]**
-- **[ShuffleNet v1,v2]**
-- **[SqueezeNet]**
-- **[SqueezeNext]**
-- **[StrassenNets]**
-- **[SlimmableNet]**
-- **[ChannelNets]**
-- **[Shift]**
-- **[FE-Net]**
-- **[EfficientNet]**
+- **[MobileNet]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, arXiv 2017, [[paper]](https://arxiv.org/abs/1704.04861)
+- **[MobileNet v2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)
+- **[MobileNet v3]** Searching for MobileNetV3, arXiv 2019, [[paper]](https://arxiv.org/abs/1905.02244)
+- **[Xception]** Xception: Deep Learning With Depthwise Separable Convolutions, CVPR 2017, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
+- **[ShuffleNet]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html)
+- **[ShuffleNet v2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ningning_Light-weight_CNN_Architecture_ECCV_2018_paper.html)
+- **[SqueezeNet]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, arXiv 2016, [[paper]](https://arxiv.org/abs/1602.07360)
+- **[StrassenNets]** StrassenNets: Deep Learning with a Multiplication Budget, ICML 2018, [[paper]](http://proceedings.mlr.press/v80/tschannen18a.html)
+- **[SlimmableNet]** Slimmable Neural Networks, ICLR 2019, [[paper]](https://openreview.net/forum?id=H1gMCsAqY7), [[code(Pytorch)]](https://github.com/JiahuiYu/slimmable_networks)
+- **[ChannelNets]** ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions, NIPS 2018, [[paper]](http://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions), [[code(Tensorflow)]](https://github.com/HongyangGao/ChannelNets)
+- **[Shift]** Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html), [[code(Pytorch)]](https://github.com/alvinwan/shiftresnet-cifar)
+- **[FE-Net]** All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_All_You_Need_Is_a_Few_Shifts_Designing_Efficient_Convolutional_CVPR_2019_paper.html)
+- **[EfficientNet]** EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, ICML 2019, [[paper]](http://proceedings.mlr.press/v97/tan19a.html)
 
 
 # Copyright 
