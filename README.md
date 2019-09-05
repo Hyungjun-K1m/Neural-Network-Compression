@@ -42,7 +42,9 @@ format: (**[Nickname]**) Paper title, published @, paper link, (official code (i
 - **[DistributionLoss]** Regularizing Activation Distribution for Training Binarized Deep Networks, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Ding_Regularizing_Activation_Distribution_for_Training_Binarized_Deep_Networks_CVPR_2019_paper.html), [[code(Pytorch)]](https://github.com/ruizhoud/DistributionLoss)
 - A Main/Subsidiary Network Framework for Simplifying Binary Neural Networks, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_A_MainSubsidiary_Network_Framework_for_Simplifying_Binary_Neural_Networks_CVPR_2019_paper.html)
 - Matrix and tensor decompositions for training binary neural networks, arXiv 2019, [[paper]](https://arxiv.org/abs/1904.07852)
-
+- Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Binary_Ensemble_Neural_Network_More_Bits_per_Network_or_More_CVPR_2019_paper.html), [[code(Pytorch)]](https://github.com/XinDongol/BENN-PyTorch)
+- Back to Simplicity: How to Train Accurate BNNs from Scratch?, arXiv 2019, [[paper]](https://arxiv.org/abs/1906.08637), [[code(MXNet)]](https://github.com/hpi-xnor/BMXNet-v2)
+- And the Bit Goes Down: Revisiting the Quantization of Neural Networks, arxiv 2019, [[paper]](https://arxiv.org/abs/1907.05686), [[code(Pytorch)]](https://github.com/facebookresearch/kill-the-bits)
 
 ## Efficient Model
 - **[MobileNet]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, arXiv 2017, [[paper]](https://arxiv.org/abs/1704.04861)
