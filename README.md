@@ -46,6 +46,12 @@ format: (**[Nickname]**) Paper title, published @, paper link, (official code (i
 - Back to Simplicity: How to Train Accurate BNNs from Scratch?, arXiv 2019, [[paper]](https://arxiv.org/abs/1906.08637), [[code(MXNet)]](https://github.com/hpi-xnor/BMXNet-v2)
 - And the Bit Goes Down: Revisiting the Quantization of Neural Networks, arxiv 2019, [[paper]](https://arxiv.org/abs/1907.05686), [[code(Pytorch)]](https://github.com/facebookresearch/kill-the-bits)
 
+## Pruning 
+To be updated.
+
+## Distilation
+To be updated.
+
 ## Efficient Model
 - **[MobileNet]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, arXiv 2017, [[paper]](https://arxiv.org/abs/1704.04861)
 - **[MobileNet v2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)
