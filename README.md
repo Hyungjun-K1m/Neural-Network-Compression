@@ -47,11 +47,11 @@ format: (**[Nickname]**) Paper title, published @, paper link, (official code (i
 - And the Bit Goes Down: Revisiting the Quantization of Neural Networks, arxiv 2019, [[paper]](https://arxiv.org/abs/1907.05686), [[code(Pytorch)]](https://github.com/facebookresearch/kill-the-bits)
 - **[BinaryDuo]** BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations, ICLR 2020, [[paper]](https://openreview.net/forum?id=r1x0lxrFPS), [[code(Torch-7)]](https://github.com/Hyungjun-K1m/BinaryDuo)
 - **[RtB]** Training Binary Neural Networks with Real-to-Binary Convolutions, ICLR 2020, [[paper]](https://openreview.net/forum?id=BJg4NgBKvH)
-- **[LLSQ]]** Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware, ICLR 2020, [[paper]](https://openreview.net/pdf?id=H1lBj2VFPS), [[code(Pytorch]](https://anonymous.4open.science/r/c05a5b6a-1d0c-4201-926f-e7b52034f7a5/)
-- **[[AutoQ]]** AutoQ: Automated Kernel-wise Neural Network Quantization, ICLR 2020, [[paper]](https://openreview.net/pdf?id=rygfnn4twS)
-- **[[APOT]]** Additive Powers-of-two Quantization: An Efficient Non-uniform Discretization for Neural Networks, ICLR 2020, [[paper]](https://openreview.net/pdf?id=BkgXT24tDS), [[code(Pytorch)]](https://github.com/yhhhli/APoT_Quantization)
-- **[[LSQ]]** Learned Step Quantization, ICLR 2020, [[paper]](https://openreview.net/pdf?id=rkgO66VKDS)
-- **[[MetaQuant]]** MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization, NeurIPS 2019, [[paper]](https://papers.nips.cc/paper/8647-metaquant-learning-to-quantize-by-learning-to-penetrate-non-differentiable-quantization.pdf), [[code(Pytorch)]](https://github.com/csyhhu/MetaQuant)
+- **[LLSQ]** Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware, ICLR 2020, [[paper]](https://openreview.net/pdf?id=H1lBj2VFPS), [[code(Pytorch]](https://anonymous.4open.science/r/c05a5b6a-1d0c-4201-926f-e7b52034f7a5/)
+- **[AutoQ]** AutoQ: Automated Kernel-wise Neural Network Quantization, ICLR 2020, [[paper]](https://openreview.net/pdf?id=rygfnn4twS)
+- **[APOT]** Additive Powers-of-two Quantization: An Efficient Non-uniform Discretization for Neural Networks, ICLR 2020, [[paper]](https://openreview.net/pdf?id=BkgXT24tDS), [[code(Pytorch)]](https://github.com/yhhhli/APoT_Quantization)
+- **[LSQ]** Learned Step Quantization, ICLR 2020, [[paper]](https://openreview.net/pdf?id=rkgO66VKDS)
+- **[MetaQuant]** MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization, NeurIPS 2019, [[paper]](https://papers.nips.cc/paper/8647-metaquant-learning-to-quantize-by-learning-to-penetrate-non-differentiable-quantization.pdf), [[code(Pytorch)]](https://github.com/csyhhu/MetaQuant)
 
 ## Pruning 
 To be updated.
