@@ -52,6 +52,7 @@ format: (**[Nickname]**) Paper title, published @, paper link, (official code (i
 - **[APOT]** Additive Powers-of-two Quantization: An Efficient Non-uniform Discretization for Neural Networks, ICLR 2020, [[paper]](https://openreview.net/pdf?id=BkgXT24tDS), [[code(Pytorch)]](https://github.com/yhhhli/APoT_Quantization)
 - **[LSQ]** Learned Step Quantization, ICLR 2020, [[paper]](https://openreview.net/pdf?id=rkgO66VKDS)
 - **[MetaQuant]** MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization, NeurIPS 2019, [[paper]](https://papers.nips.cc/paper/8647-metaquant-learning-to-quantize-by-learning-to-penetrate-non-differentiable-quantization.pdf), [[code(Pytorch)]](https://github.com/csyhhu/MetaQuant)
+- **[BGNN]** Binary Graph Neural Networks, CVPR 2021, [[paper]](https://arxiv.org/abs/2012.15823), [[code(Pytorch)]](https://github.com/mbahri/binary_gnn)
 
 ## Pruning 
 To be updated.
